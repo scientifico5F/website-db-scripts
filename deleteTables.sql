@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DROP TABLE IF EXISTS Contents;
 
 DROP TABLE IF EXISTS Categories;
@@ -11,3 +12,12 @@ DROP TABLE IF EXISTS ContentsCategoriesTh;
 DROP TABLE IF EXISTS ContentsTagsTh;
 
 DROP TABLE IF EXISTS ContentsAttachmentsTh;
+=======
+DROP TABLE IF EXISTS ContentsCategoriesTh; 
+DROP TABLE IF EXISTS ContentsTagsTh; 
+DROP TABLE IF EXISTS ContentsAttachmentsTh; 
+DROP TABLE IF EXISTS Contents; 
+DROP TABLE IF EXISTS Categories; 
+DROP TABLE IF EXISTS Tags; 
+DROP TABLE IF EXISTS Attachments;
+>>>>>>> 453e9114d1292d56848319743a060eb50d5160f9
