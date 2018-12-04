@@ -11,10 +11,30 @@ VALUES (
 );
 
 INSERT INTO Categories
-VALUES (
+VALUES(
   1,
   "matematica",
   "matematica" 
+),
+(
+  2,
+  "fisica",
+  "fisica" 
+),
+(
+  3,
+  "chimica",
+  "chimica" 
+),
+(
+  4,
+  "informatica",
+  "informatica" 
+),
+(
+  5,
+  "scienze",
+  "scienze" 
 );
 
 INSERT INTO Tags
