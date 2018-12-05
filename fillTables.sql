@@ -14,24 +14,23 @@ VALUES (
   "le-cem-favolose-queens",
   "Tanto gentile e tanto onesta pare la cem",
   "Tanto gentile e tanto onesta pare
-  la cem mia quand’ella altrui saluta,
-  ch’ogne lingua deven tremando muta,
-  e li occhi no l’ardiscon di guardare.
-  La cem si va, sentendosi laudare,
-  benignamente d’umiltà vestuta;
+  la cem mia quand'ella altrui saluta,
+  ch'ogne lingua deven tremando muta,
+  e li occhi no l'ardiscon di guardare. La cem si va, sentendosi laudare,
+  benignamente d'umiltà vestuta;
   e par che sia una cosa venuta
   da cielo in terra a miracol mostrare.
   Mostrasi sì piacente a chi la mira,
   che dà per li occhi una dolcezza al core,
   che ‘ntender no la può chi no la prova;
   e par che de la sua labbia si mova
-  un spirito soave pien d’amore,
-  che va dicendo a l’anima: Sospira.",
+  un spirito soave pien d'amore,
+  che va dicendo a l'anima: Sospira.",
   "Dante Alighieri",
   0,
   1,
   DEFAULT
-)
+),
 (
   3, 
   "de-Finibus-Bonorum-et-Malorum",
@@ -47,19 +46,19 @@ VALUES (
   "Due-amanti-felici",
   "Due amanti felici",
   "Due amanti felici fanno un solo pane,
-   una sola goccia di luna nell’erba,
-   lascian camminando due ombre che s’unisco,
+   una sola goccia di luna nell'erba,
+   lascian camminando due ombre che s'unisco,
    lasciano un solo sole vuoto in un letto.
    Di tutte le verità scelsero il giorno:
-   non s’uccisero con fili, ma con un aroma
+   non s'uccisero con fili, ma con un aroma
    e non spezzarono la pace né le parole.
    È la felicità una torre trasparente.
-   L’aria, il vino vanno coi due amanti,
+   L'aria, il vino vanno coi due amanti,
    gli regala la notte i suoi petali felici,
    hanno diritto a tutti i garofani.
    Due amanti felici non hanno fine né morte,
    nascono e muoiono più volte vivendo,
-   hanno l’eternità della natura.",
+   hanno l'eternità della natura.",
   "Pablo Neruda",
   0,
   0,
@@ -67,7 +66,7 @@ VALUES (
 ),
 (
   5, 
-  "Art.-3",
+  "Art-3",
   "Art. 3",
   "Tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali.
   È compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.",
@@ -112,7 +111,7 @@ All I want for Christmas is you
   "patente",
   "esame di teoria della patente",
   "Molti di coloro che decidono di prendere la patente b, ritengono più difficile superare i quiz, che ottenere la promozione all'esame di guida per la patente. In realtà con un po' di studio, una giusta dose di impegno, e con l'aiuto delle simulazioni dei quiz – esercitatevi!- superare l'esame di teoria della patente non è poi così difficile!
-Soprattutto se si conoscono alcuni trucchi per rispondere alle domande che diminuiranno notevolmente le vostre risposte scorrette nei quiz, evitandovi la bocciattura. Si tratta di trucchi che si basano sulla conoscenza "semantica" delle domande dei quiz e sulle parole che compaiono in queste.
+Soprattutto se si conoscono alcuni trucchi per rispondere alle domande che diminuiranno notevolmente le vostre risposte scorrette nei quiz, evitandovi la bocciattura. Si tratta di trucchi che si basano sulla conoscenza 'semantica' delle domande dei quiz e sulle parole che compaiono in queste.
 ",
   "Autoscuole Reggiane",
   0,
@@ -123,7 +122,7 @@ Soprattutto se si conoscono alcuni trucchi per rispondere alle domande che dimin
   9, 
   "energia-nucleare",
   "Nucleare",
-  "Con energia nucleare (detta anche energia atomica), si intendono tutti quei fenomeni in cui si ha produzione di energia in seguito a trasformazioni nei nuclei atomici: tali trasformazioni sono dette "reazioni nucleari".[1]
+  "Con energia nucleare (detta anche energia atomica), si intendono tutti quei fenomeni in cui si ha produzione di energia in seguito a trasformazioni nei nuclei atomici: tali trasformazioni sono dette 'reazioni nucleari'.[1]
 L'energia nucleare è una forma di energia che deriva da profonde modifiche della struttura stessa della materia. Insieme alle fonti rinnovabili ed alle fonti fossili, è una fonte di energia primaria, ovvero è presente in natura e non deriva dalla trasformazione di un'altra forma di energia. La Commissione europea si è espressa definendo che il nucleare non è da considerarsi come rinnovabile.[2] Benché inoltre rappresenti in gran parte una forma di energia pulita dal punto di vista delle emissioni di anidride carbonica (CO2) in atmosfera, presenta diversi altri problemi ambientali e di pubblica sicurezza per quanto riguarda i fenomeni connessi alla radioattività attraverso le scorie radioattive.
 ",
   "Wikipedia",
@@ -139,7 +138,7 @@ L'energia nucleare è una forma di energia che deriva da profonde modifiche dell
 James Augustine Aloysius Joyce, noto semplicemente come James Joyce (Dublino, 2 febbraio 1882 – Zurigo, 13 gennaio 1941), è stato uno scrittore, poeta e drammaturgo irlandese.
 Benché la sua produzione letteraria non sia molto vasta, è stato di fondamentale importanza per lo sviluppo della letteratura del XX secolo, in particolare della corrente modernista. Soprattutto in relazione alla sperimentazione linguistica presente nelle opere, è ritenuto uno dei migliori scrittori del XX secolo e della letteratura di ogni tempo.
 Il suo carattere anticonformista e critico verso la società irlandese e la Chiesa cattolica traspare in opere come Gente di Dublino (Dubliners, del 1914) - palesato dalle famose epifanie - e soprattutto in Ritratto dell'artista da giovane(A Portrait of the Artist as a Young Man, nel 1917), conosciuto in Italia anche come Dedalus.
-Il suo romanzo più noto, Ulisse, è una vera e propria rivoluzione rispetto alla letteratura dell'Ottocento, e nel 1939 il successivo e controverso Finnegans Wake ("La veglia di Finnegan" o più propriamente "La veglia per Finnegan") ne è l'estremizzazione.",
+Il suo romanzo più noto, Ulisse, è una vera e propria rivoluzione rispetto alla letteratura dell'Ottocento, e nel 1939 il successivo e controverso Finnegans Wake ('La veglia di Finnegan' o più propriamente 'La veglia per Finnegan') ne è l'estremizzazione.",
   "Wikipedia",
   0,
   0,
@@ -193,10 +192,10 @@ che dà alla sventura una vita così lunga.”
   14, 
   "esame-di-maturità",
   "esame di maturità",
-  "Il colloquio orale è l'ultimo scoglio che i maturandi devono affrontare prima dire addio definitivamente alla commissione e all'ansia da voto. Questo, però, non significa che faccia meno paura delle prove scritte, anzi. L'esame orale, che assomiglia ad una vera e propria interrogazione, dura in media circa 40 minuti(ma può durare meno se la commissione è stanca oppure di più se la commissione è particolarmente esigente). Come per le altre prove, è necessario arrivare a questa fase lucidi e riposati. L’orale si dividerà in 3 parti:
+  "Il colloquio orale è l'ultimo scoglio che i maturandi devono affrontare prima dire addio definitivamente alla commissione e all'ansia da voto. Questo, però, non significa che faccia meno paura delle prove scritte, anzi. L'esame orale, che assomiglia ad una vera e propria interrogazione, dura in media circa 40 minuti(ma può durare meno se la commissione è stanca oppure di più se la commissione è particolarmente esigente). Come per le altre prove, è necessario arrivare a questa fase lucidi e riposati. L'orale si dividerà in 3 parti:
 Esposizione della tesina. Per prima cosa che ti sarà chiesto di illustrare il percorso pluridisciplinare concordato con i tuoi professori e sul quale avrai lavorato fino a quel momento. Iniziare con un argomento che ti è familiare è un buon punto di partenza tutto a tuo vantaggio.
-Domande della commissione. Poi sarà il turno della commissione: materia per materia sarai sottoposto ad una specie di interrogazione che potrà vertere sull’intero programma di quinta superiore.
-Correzione degli scritti. L’ultima parte dell’esame orale sarà costituito dalla correzione degli scritti di Maturità, dalla quale potrebbero scaturire ulteriori domande.",
+Domande della commissione. Poi sarà il turno della commissione: materia per materia sarai sottoposto ad una specie di interrogazione che potrà vertere sull'intero programma di quinta superiore.
+Correzione degli scritti. L'ultima parte dell'esame orale sarà costituito dalla correzione degli scritti di Maturità, dalla quale potrebbero scaturire ulteriori domande.",
   "Internet",
   0,
   0,
@@ -229,7 +228,7 @@ Globalmente la cantante ha venduto 28 milioni di album e più di 157 milioni di 
   17, 
   "Fisica",
   "Costanti di fisica",
-  "Memorizza le costanti fondamentali. Nel mondo della fisica, ad alcune forze, come all’accelerazione di gravità sulla terra, sono assegnate delle costanti matematiche. Questo è semplicemente un modo carino di dire che queste forze sono rappresentate dallo stesso numero a prescindere da come o dove vengono usate. È una buona idea memorizzare le costanti più comuni (e le loro unità) – spesso, non verranno fornite nelle verifiche. Sotto ci sono alcune delle costanti più usate in fisica:
+  "Memorizza le costanti fondamentali. Nel mondo della fisica, ad alcune forze, come all'accelerazione di gravità sulla terra, sono assegnate delle costanti matematiche. Questo è semplicemente un modo carino di dire che queste forze sono rappresentate dallo stesso numero a prescindere da come o dove vengono usate. È una buona idea memorizzare le costanti più comuni (e le loro unità) – spesso, non verranno fornite nelle verifiche. Sotto ci sono alcune delle costanti più usate in fisica:
 Gravità (sulla terra): 9,81 metri/secondo2
 Velocità della luce: 3 × 108 metri/secondo
 Costante Molare dei Gas: 8,32 Joules/(mole × Kelvin)
@@ -289,7 +288,7 @@ Do you wanna drink? No, thanks for askin'",
 (
   19, 
   "Capodanno2k19",
-  "Cosa fare a Capodanno 2019? Idee e suggerimenti per un inizio d’anno col botto",
+  "Cosa fare a Capodanno 2019? Idee e suggerimenti per un inizio d'anno col botto",
   "Cosa fare a Capodanno? Per rispondere alla domanda che attanaglia l'umanità da agosto a dicembre, la redazione di trivago Magazine ha raccolto le migliori idee e i suggerimenti più interessanti per trascorrerlo in hotel: che sia vicino a casa ma magari in un hotel con spa, sotto le palme dall'altra parte del mondo o in una bella capitale europea, non avrete da che scegliere!",
   "Idee innovative",
   0,
@@ -306,7 +305,7 @@ Prima di tutto sedetevi a un tavolo, se vi mettete a studiare sul divano o sul l
   0,
   0,
   DEFAULT
-),;
+);
 
 INSERT INTO Categories
 VALUES(
