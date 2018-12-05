@@ -8,7 +8,305 @@ VALUES (
   0,
   0,
   DEFAULT
-);
+),
+(
+  2, 
+  "le-cem-favolose-queens",
+  "Tanto gentile e tanto onesta pare la cem",
+  "Tanto gentile e tanto onesta pare
+  la cem mia quand’ella altrui saluta,
+  ch’ogne lingua deven tremando muta,
+  e li occhi no l’ardiscon di guardare.
+  La cem si va, sentendosi laudare,
+  benignamente d’umiltà vestuta;
+  e par che sia una cosa venuta
+  da cielo in terra a miracol mostrare.
+  Mostrasi sì piacente a chi la mira,
+  che dà per li occhi una dolcezza al core,
+  che ‘ntender no la può chi no la prova;
+  e par che de la sua labbia si mova
+  un spirito soave pien d’amore,
+  che va dicendo a l’anima: Sospira.",
+  "Dante Alighieri",
+  0,
+  1,
+  DEFAULT
+)
+(
+  3, 
+  "de-Finibus-Bonorum-et-Malorum",
+  "de Finibus Bonorum et Malorum",
+  "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+  "Cicerone",
+  0,
+  0,
+  DEFAULT
+),
+(
+  4, 
+  "Due-amanti-felici",
+  "Due amanti felici",
+  "Due amanti felici fanno un solo pane,
+   una sola goccia di luna nell’erba,
+   lascian camminando due ombre che s’unisco,
+   lasciano un solo sole vuoto in un letto.
+   Di tutte le verità scelsero il giorno:
+   non s’uccisero con fili, ma con un aroma
+   e non spezzarono la pace né le parole.
+   È la felicità una torre trasparente.
+   L’aria, il vino vanno coi due amanti,
+   gli regala la notte i suoi petali felici,
+   hanno diritto a tutti i garofani.
+   Due amanti felici non hanno fine né morte,
+   nascono e muoiono più volte vivendo,
+   hanno l’eternità della natura.",
+  "Pablo Neruda",
+  0,
+  0,
+  DEFAULT
+),
+(
+  5, 
+  "Art.-3",
+  "Art. 3",
+  "Tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali.
+  È compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.",
+  "Costituzione",
+  0,
+  0,
+  DEFAULT
+),
+(
+  6, 
+  "panda",
+  "Panda",
+  "Il panda gigante o panda maggiore (Ailuropoda melanoleuca David, 1869) è un mammifero appartenente alla famiglia Ursidae. Originario della Cina centrale, vive nelle regioni montuose del Sichuan. Verso la seconda metà del XX secolo, il panda è diventato un emblema nazionale in Cina, e dal 1982 è raffigurato sulle monete auree cinesi (serie Panda Dorato). Inoltre è diventato il simbolo del WWF.
+Il nome scientifico è Ailuropoda melanoleuca, dal greco antico che significa letteralmente piede di gatto - nero bianco. Il termine panda deriva molto probabilmente dal Nepali ponya.
+Nonostante il fatto che secondo la tassonomia si tratti di un carnivoro, la sua dieta è essenzialmente quella di un erbivoro. In effetti si nutre quasi esclusivamente di bambù (circa 40 kg al giorno, pari al 45% del peso corporeo). Tecnicamente, come molti altri animali, è onnivoro (è noto che il panda accompagna con uova, insetti ed occasionalmente carogne, i suoi pasti a base di bambù). Le sue orecchie si muovono durante la masticazione.
+",
+  "Wikipedia",
+  0,
+  0,
+  DEFAULT
+),
+(
+  7, 
+  "Christmas",
+  "Christmas",
+  "I don't want a lot for Christmas
+There is just one thing I need
+I don't care about the presents
+Underneath the Christmas tree
+I just want you for my own
+More than you could ever know
+Make my wish come true
+All I want for Christmas is you
+",
+  "Mariah Carey",
+  1,
+  0,
+  DEFAULT
+),
+(
+  8, 
+  "patente",
+  "esame di teoria della patente",
+  "Molti di coloro che decidono di prendere la patente b, ritengono più difficile superare i quiz, che ottenere la promozione all'esame di guida per la patente. In realtà con un po' di studio, una giusta dose di impegno, e con l'aiuto delle simulazioni dei quiz – esercitatevi!- superare l'esame di teoria della patente non è poi così difficile!
+Soprattutto se si conoscono alcuni trucchi per rispondere alle domande che diminuiranno notevolmente le vostre risposte scorrette nei quiz, evitandovi la bocciattura. Si tratta di trucchi che si basano sulla conoscenza "semantica" delle domande dei quiz e sulle parole che compaiono in queste.
+",
+  "Autoscuole Reggiane",
+  0,
+  0,
+  DEFAULT
+),
+(
+  9, 
+  "energia-nucleare",
+  "Nucleare",
+  "Con energia nucleare (detta anche energia atomica), si intendono tutti quei fenomeni in cui si ha produzione di energia in seguito a trasformazioni nei nuclei atomici: tali trasformazioni sono dette "reazioni nucleari".[1]
+L'energia nucleare è una forma di energia che deriva da profonde modifiche della struttura stessa della materia. Insieme alle fonti rinnovabili ed alle fonti fossili, è una fonte di energia primaria, ovvero è presente in natura e non deriva dalla trasformazione di un'altra forma di energia. La Commissione europea si è espressa definendo che il nucleare non è da considerarsi come rinnovabile.[2] Benché inoltre rappresenti in gran parte una forma di energia pulita dal punto di vista delle emissioni di anidride carbonica (CO2) in atmosfera, presenta diversi altri problemi ambientali e di pubblica sicurezza per quanto riguarda i fenomeni connessi alla radioattività attraverso le scorie radioattive.
+",
+  "Wikipedia",
+  0,
+  0,
+  DEFAULT
+),
+(
+  10, 
+  "James-Joyce",
+  "Joyce",
+  " 
+James Augustine Aloysius Joyce, noto semplicemente come James Joyce (Dublino, 2 febbraio 1882 – Zurigo, 13 gennaio 1941), è stato uno scrittore, poeta e drammaturgo irlandese.
+Benché la sua produzione letteraria non sia molto vasta, è stato di fondamentale importanza per lo sviluppo della letteratura del XX secolo, in particolare della corrente modernista. Soprattutto in relazione alla sperimentazione linguistica presente nelle opere, è ritenuto uno dei migliori scrittori del XX secolo e della letteratura di ogni tempo.
+Il suo carattere anticonformista e critico verso la società irlandese e la Chiesa cattolica traspare in opere come Gente di Dublino (Dubliners, del 1914) - palesato dalle famose epifanie - e soprattutto in Ritratto dell'artista da giovane(A Portrait of the Artist as a Young Man, nel 1917), conosciuto in Italia anche come Dedalus.
+Il suo romanzo più noto, Ulisse, è una vera e propria rivoluzione rispetto alla letteratura dell'Ottocento, e nel 1939 il successivo e controverso Finnegans Wake ("La veglia di Finnegan" o più propriamente "La veglia per Finnegan") ne è l'estremizzazione.",
+  "Wikipedia",
+  0,
+  0,
+  DEFAULT
+),
+(
+  11, 
+  "amleto",
+  "Amleto",
+  "“Essere, o non essere, questo è il problema:
+se sia più nobile nella mente soffrire
+colpi di fionda e dardi d'atroce fortuna
+o prender armi contro un mare d'affanni
+e, opponendosi, por loro fine? Morire, dormire…
+nient'altro, e con un sonno dire che poniamo fine
+al dolore del cuore e ai mille tumulti naturali
+di cui è erede la carne: è una conclusione
+da desiderarsi devotamente. Morire, dormire.
+Dormire, forse sognare. Sì, qui è l'ostacolo,
+perché in quel sonno di morte quali sogni possano venire
+dopo che ci siamo cavati di dosso questo groviglio mortale
+deve farci riflettere. È questo lo scrupolo
+che dà alla sventura una vita così lunga.”
+",
+  "Shakespeare",
+  0,
+  0,
+  DEFAULT
+),
+(
+  12, 
+  "Platone",
+  "platone",
+  "L'anima se ne sta smarrita per la stranezza della sua condizione e, non sapendo che fare, smania e fuor di sé non trova sonno di notte né riposo di giorno, ma corre, anela là dove spera di poter rimirare colui che possiede la bellezza. E appena l'ha riguardato, invasa dall'onda del desiderio amoroso, le si sciolgono i canali ostruiti: essa prende respiro, si riposa delle trafitture e degli affanni, e di nuovo gode, per il momento almeno, questo soavissimo piacere. [...] Perché, oltre a venerare colui che possiede la bellezza, ha scoperto in lui l'unico medico dei suoi dolorosi affanni. Questo patimento dell'anima, mio bell'amico a cui sto parlando, è ciò che gli uomini chiamano amore.",
+  "Platone",
+  0,
+  0,
+  DEFAULT
+),
+(
+  13, 
+  "Limiti",
+  "Limiti",
+  "I limiti di funzioni reali rappresentano un concetto importantissimo in tutta l'analisi matematica. Essi servono a descrivere l'andamento di una funzione y=f(x) quando la x si avvicina ad un certo valore, ad esempio un valore per il quale la funzione non risulta definita e pertanto siamo interessati a come si comporta la funzione in prossimità di tale punto. Il calcolo dei limiti ritorna utile in tutti i rami dell'analisi matematica, infatti sono usati per definire la continuità, la derivazione e l'integrazione.",
+  "internet",
+  0,
+  0,
+  DEFAULT
+),
+(
+  14, 
+  "esame-di-maturità",
+  "esame di maturità",
+  "Il colloquio orale è l'ultimo scoglio che i maturandi devono affrontare prima dire addio definitivamente alla commissione e all'ansia da voto. Questo, però, non significa che faccia meno paura delle prove scritte, anzi. L'esame orale, che assomiglia ad una vera e propria interrogazione, dura in media circa 40 minuti(ma può durare meno se la commissione è stanca oppure di più se la commissione è particolarmente esigente). Come per le altre prove, è necessario arrivare a questa fase lucidi e riposati. L’orale si dividerà in 3 parti:
+Esposizione della tesina. Per prima cosa che ti sarà chiesto di illustrare il percorso pluridisciplinare concordato con i tuoi professori e sul quale avrai lavorato fino a quel momento. Iniziare con un argomento che ti è familiare è un buon punto di partenza tutto a tuo vantaggio.
+Domande della commissione. Poi sarà il turno della commissione: materia per materia sarai sottoposto ad una specie di interrogazione che potrà vertere sull’intero programma di quinta superiore.
+Correzione degli scritti. L’ultima parte dell’esame orale sarà costituito dalla correzione degli scritti di Maturità, dalla quale potrebbero scaturire ulteriori domande.",
+  "Internet",
+  0,
+  0,
+  DEFAULT
+),
+(
+  15, 
+  "Lady-Gaga",
+  "Lady Gaga",
+  "Lady Gaga, pseudonimo di Stefani Joanne Angelina Germanotta (New York, 28 marzo 1986), è una cantautrice, attrice e attivista statunitense.
+Il nome d'arte dell'artista è ispirato al brano Radio Ga Ga dei Queen.[2] Conosciuta per i modi eccentrici e stravaganti, Lady Gaga si è imposta da subito nel panorama musicale tanto per il suo essere provocatoria quanto per le qualità delle sue performance live; in molti, infatti, l'hanno definita una delle migliori interpreti pop del XXI secolo.[3][4]
+L'artista è sotto contratto con la Interscope Records e ha debuttato nel 2008 con l'album The Fame, incluso dalla rivista Rolling Stone tra i 100 migliori album di debutto della storia.[5] A esso ha fatto seguito nel 2009 l'EP The Fame Monster, dal quale sono stati estratti i singoli Bad Romance, Telephone e Alejandro.[6] Il secondo album in studio della cantante, Born This Way, pubblicato nel 2011, ha raggiunto il primo posto negli Stati Uniti d'America e in altri venti stati;[7] il singolo omonimo fu inoltre il più veloce della storia nelle vendite su iTunes con oltre un milione di copie vendute in cinque giorni.[8] Anche i successivi album in studio Artpop (2013), Cheek to Cheek (2014, con Tony Bennett)[9] e Joanne (2016),[10] insieme alla colonna sonora A Star Is Born Soundtrack, hanno raggiunto la vetta della Billboard 200, rendendo Lady Gaga l'unica ad aver piazzato cinque album consecutivi al primo posto nell'ultimo decennio.[11]
+Globalmente la cantante ha venduto 28 milioni di album e più di 157 milioni di singoli,[12] di cui 11 milioni di album e oltre 56 milioni di singoli venduti solamente negli Stati Uniti d'America secondo quanto stilato dalla rivista statunitense Billboard,[13] risultando tra gli artisti con maggiori vendite nella storia dell'era digitale.[14] Nel 2014 il suo singolo Bad Romance è stato certificato dieci volte disco di platino dalla RIAA, ricevendo il Digital Diamond Award per le oltre 10 milioni di copie vendute digitalmente, rendendo Lady Gaga la prima artista femminile nella storia a ricevere tale riconoscimento,[15] conferito successivamente anche a un altro singolo della cantante, Poker Face.[16]",
+  "Wikipedia",
+  0,
+  0,
+  DEFAULT
+),
+(
+  16, 
+  "super-bella-gara-cesenatico",
+  "gara super bella a Cesenatico",
+  "la gara si è svolta in data x y z ed è stata bella",
+  "Tizio Caio",
+  0,
+  0,
+  DEFAULT
+),
+(
+  17, 
+  "Fisica",
+  "Costanti di fisica",
+  "Memorizza le costanti fondamentali. Nel mondo della fisica, ad alcune forze, come all’accelerazione di gravità sulla terra, sono assegnate delle costanti matematiche. Questo è semplicemente un modo carino di dire che queste forze sono rappresentate dallo stesso numero a prescindere da come o dove vengono usate. È una buona idea memorizzare le costanti più comuni (e le loro unità) – spesso, non verranno fornite nelle verifiche. Sotto ci sono alcune delle costanti più usate in fisica:
+Gravità (sulla terra): 9,81 metri/secondo2
+Velocità della luce: 3 × 108 metri/secondo
+Costante Molare dei Gas: 8,32 Joules/(mole × Kelvin)
+Numero di Avogadro: 6,02 × 1023 per mole
+Costante di Planck: 6,63 × 10-34 Joules × secondo",
+  "Internet",
+  0,
+  0,
+  DEFAULT
+),
+(
+  18, 
+  "You-dont-know-me",
+  "You don't know me",
+  "Ooh, na na yeah
+Don't act like you know me, like you know me, na na yeah
+I am not your homie, not your, hoo, na na yeah
+Don't act like you know me, like you know me, na na yeah
+You don't know me
+Oh yeah, time is money so don't fuck with mine
+See I'm out with my girls, I'ma have a good time
+Step back with your chit-chat, killin' my vibe
+See, I can't get too much of a good thing
+S'why me a dressed up in the finest things
+Well, please hold your tongue, oh, don't say a damn thing
+See your iPhone camera flashin'
+Please step back, it's my style you're crampin'
+You here for long? Oh no, I'm just passin'
+Do you wanna drink? No, thanks for askin'
+Ooh, na na yeah
+Don't act like you know me, like you know me, na na yeah
+I am not your homie, not your, hoo, na na yeah
+Don't act like you know me, like you know me, na na yeah
+You don't know me, fuck yeah
+Ooh, na na yeah
+Don't act like you know me, like you know me, na na yeah
+I am not your homie, not your, hoo, na na yeah
+Don't act like you know me, like you know me, na na yeah
+You don't know me, fuck yeah
+I mean, we can throw shapes together
+But it doesn't mean you're in my circle, yeah
+Cruise through life and I'm feelin' on track
+If you can't keep up, then you better fall back
+'Cause money look better when I see it all stacked up
+See, I can't get too much of a good thing
+S'why me a dressed up in the finest things
+Well, please hold your tongue, oh, don't say a damn thing
+See your iPhone camera flashin'
+Please step back, it's my style you're crampin'
+You here for long? Oh no, I'm just passin'
+Do you wanna drink? No, thanks for askin'",
+  "Jax Jones",
+  0,
+  1,
+  DEFAULT
+),
+(
+  19, 
+  "Capodanno2k19",
+  "Cosa fare a Capodanno 2019? Idee e suggerimenti per un inizio d’anno col botto",
+  "Cosa fare a Capodanno? Per rispondere alla domanda che attanaglia l'umanità da agosto a dicembre, la redazione di trivago Magazine ha raccolto le migliori idee e i suggerimenti più interessanti per trascorrerlo in hotel: che sia vicino a casa ma magari in un hotel con spa, sotto le palme dall'altra parte del mondo o in una bella capitale europea, non avrete da che scegliere!",
+  "Idee innovative",
+  0,
+  0,
+  DEFAULT
+),
+(
+  20, 
+  "notte-magica",
+  "STUDIARE DI NOTTE: METODO DI STUDIO PER RIMANERE SVEGLI.",
+  "Dobbiamo partire da un dato di fatto: studiare di notte non è un buon metodo di studio. Alla fine della giornata si è stanchi, le capacità di attenzione, concentrazione e memoria si riducono e se il giorno dopo avete un esame o un compito arrivarci morti di sonno camminando sulle ginocchia non vi aiuterà. Detto questo però è innegabile che a molti di noi è capitato di ritrovarsi a studiare fino all'ultimo secondo, anzi fino all'ultimo secondo dell'ultima notte prima dell'interrogazione o dell'esame e il problema è sempre lo stesso: mi si chiudono gli occhi, come faccio a restare sveglio? Anche se non è una buona idea, studiare di notte è possibile: ecco allora il metodo di studio e le tecniche per rimanere svegli e riuscire a studiare di notte.
+Prima di tutto sedetevi a un tavolo, se vi mettete a studiare sul divano o sul letto avete giá perso. ",
+  "Studentville",
+  0,
+  0,
+  DEFAULT
+),;
 
 INSERT INTO Categories
 VALUES (
