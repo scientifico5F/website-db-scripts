@@ -32,13 +32,20 @@ CREATE TABLE IF NOT EXISTS Attachments (
   PRIMARY KEY (id)
 );
 
+CREATE TABLE IF NOT EXISTS Users (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  email varchar(255),
+  password varchar(32),
+  PRIMARY KEY (id)
+);
+
 CREATE TABLE IF NOT EXISTS ContentsCategoriesTh (
   id int(11) NOT NULL AUTO_INCREMENT,
   contentId int(11),
   categoryId int(11),
   PRIMARY KEY (id),
-  FOREIGN KEY (contentId) REFERENCES Contents(id),
-  FOREIGN KEY (categoryId) REFERENCES Categories(id)
+  FOREIGN KEY (contentId) REFERENCES Contents(id) ON DELETE CASCADE,
+  FOREIGN KEY (categoryId) REFERENCES Categories(id) ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS ContentsTagsTh (
@@ -46,8 +53,8 @@ CREATE TABLE IF NOT EXISTS ContentsTagsTh (
   contentId int(11),
   tagId int(11),
   PRIMARY KEY (id),
-  FOREIGN KEY (contentId) REFERENCES Contents(id),
-  FOREIGN KEY (tagId) REFERENCES Tags(id)
+  FOREIGN KEY (contentId) REFERENCES Contents(id) ON DELETE CASCADE,
+  FOREIGN KEY (tagId) REFERENCES Tags(id) ON DELETE CASCADE
 
 );
 
@@ -56,6 +63,6 @@ CREATE TABLE IF NOT EXISTS ContentsAttachmentsTh (
   contentId int(11),
   attachmentId int(11),
   PRIMARY KEY (id),
-  FOREIGN KEY (contentId) REFERENCES Contents(id),
-  FOREIGN KEY (attachmentId) REFERENCES Attachments(id)
+  FOREIGN KEY (contentId) REFERENCES Contents(id) ON DELETE CASCADE,
+  FOREIGN KEY (attachmentId) REFERENCES Attachments(id) ON DELETE CASCADE
 );
