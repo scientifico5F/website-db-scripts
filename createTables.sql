@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS Attachments (
 CREATE TABLE IF NOT EXISTS Users (
   id int(11) NOT NULL AUTO_INCREMENT,
   email varchar(255),
-  password varchar(32),
+  password varchar(255),
   PRIMARY KEY (id)
 );
 
